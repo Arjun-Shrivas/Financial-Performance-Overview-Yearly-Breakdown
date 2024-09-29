@@ -7,7 +7,8 @@
 <h3>📸 Dashboard Preview</h3>
 <img src="https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" alt="Dashboard Preview" width="600" />
 
-<iframe src="https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" width="800" height="600"></iframe>
+[Explore the interactive Tableau dashboard here!]([https://public.tableau.com/views/YourDashboardName/SheetName](https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
 
 
 <h3>🔗 Explore the Tableau Dashboard</h3>
