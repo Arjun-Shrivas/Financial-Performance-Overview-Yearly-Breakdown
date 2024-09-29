@@ -11,7 +11,7 @@ Key insights include the identification of months with peak expenditures, the co
 
 <h3>🔗 Explore the Tableau Dashboard</h3>
 <p>Check out the interactive version of this project on <strong>Tableau Public</strong>:  
-<a href="#" target="_blank">Click here to explore the dashboard!</a></p>
+<a href="#" target="https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Click here to explore the dashboard!</a></p>
 
 <h3>🔍 Project Overview</h3>
 <p>This project focuses on tracking and visualizing year-over-year financial metrics to help businesses understand their performance trends and operational efficiency. The dashboard provides:</p>
