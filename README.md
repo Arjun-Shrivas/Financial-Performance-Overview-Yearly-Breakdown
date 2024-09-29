@@ -5,21 +5,17 @@
 
 <h3>🔍 Project Overview</h3>
 <p>This project focuses on tracking and visualizing year-over-year financial metrics to help businesses understand their performance trends and operational efficiency. The dashboard provides:</p>
-<ul>
-    <li><strong>Dynamic Year Selection</strong>: Users can select specific years (e.g., 2013, 2014, 2015, ..., 2020) via buttons to reflect detailed financial metrics for the selected year.</li>
-    <li><strong>Cash Flow Visualization</strong>: Incorporates forecasting for future cash flows, helping to project financial performance over time.</li>
-    <li><strong>Cash Flow Breakdown</strong>: Analyze cash flows by metric, including Operating, Financing, and Investing activities, along with revenue breakdown over the years.</li>
-    <li><strong>Expense Breakdown</strong>: View operating expenses categorized for better analysis and understanding of cost drivers.</li>
-</ul>
+<p>This dynamic dashboard allows users to select a specific year (e.g., 2013, 2014, 2015, ..., 2020) through interactive buttons. When a user clicks a year, all graphs and details reflect the chosen year's data, providing a comprehensive overview of financial metrics.</p>
 
 <h3>📈 Key Features</h3>
 <ul>
-    <li><strong>Yearly Financial Breakdown</strong>: Select a year to get a detailed breakdown of revenue, profit margins, and more.</li>
-    <li><strong>Interactive Pie Chart</strong>: Visualize profit margins, revenue contribution, and gross profit on a single scale.</li>
-    <li><strong>Dynamic Filters</strong>: Filter the data based on specific years to get clear insights and comparisons.</li>
-    <li><strong>Operational Efficiency Metrics</strong>: Analyze return on investment (ROI), profit margins, and revenue growth trends to evaluate financial health.</li>
-    <li><strong>In-depth Analysis</strong>: Gain insights into areas that need attention to optimize operational efficiency.</li>
+    <li><strong>Yearly Financial Breakdown</strong>: Select a year to get a detailed breakdown of revenue, profit margins, and other metrics.</li>
+    <li><strong>Cash Flow Visualization</strong>: Dynamic forecasting features that allow users to view cash flow forecasts by operating activities, financing, investing, and revenue breakdown over the years.</li>
+    <li><strong>Expense Breakdown</strong>: Detailed analysis of operating expenses categorized by type to understand spending better.</li>
+    <li><strong>Balance Sheet Snapshot</strong>: Visualize current assets, current liabilities, and Net Working Equity (NWE) for a clear financial picture.</li>
+    <li><strong>Operational Efficiency Metrics</strong>: Track KPIs that measure how effectively an organization uses its resources like time, money, and manpower to produce goods or services. These metrics help businesses minimize waste, reduce costs, and improve productivity while maintaining quality.</li>
 </ul>
+
 
 <h3>🚀 Technologies & Tools Used</h3>
 <ul>
