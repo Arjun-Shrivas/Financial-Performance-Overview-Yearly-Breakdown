@@ -9,7 +9,7 @@
 
 Explore the interactive Tableau dashboard by clicking the link below:
 
-[View the Financial Performance Overview Dashboard]([https://public.tableau.com/views/your-dashboard-name](https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View the Financial Performance Overview Dashboard](https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img src="https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" alt="Dashboard Preview" width="600" />
 
