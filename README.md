@@ -13,9 +13,6 @@ Key insights include the identification of months with peak expenditures, the co
 <p>Check out the interactive version of this project on <strong>Tableau Public</strong>:  
 <a href="https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="">Click here to explore the dashboard!</a></p>
 
-
-[<img src="https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" width=600 height500>]()
-
 <h3>🔍 Project Overview</h3>
 <p>This project focuses on tracking and visualizing year-over-year financial metrics to help businesses understand their performance trends and operational efficiency. The dashboard provides:</p>
 <p>This dynamic dashboard allows users to select a specific year (e.g., 2013, 2014, 2015, ..., 2020) through interactive buttons. When a user clicks a year, all graphs and details reflect the chosen year's data, providing a comprehensive overview of financial metrics.</p>
