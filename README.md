@@ -24,7 +24,7 @@ Key insights include the identification of months with peak expenditures, the co
 
 Explore the interactive Tableau dashboard by clicking the link below:
 
-[View the Financial Performance Overview Dashboard]([https://public.tableau.com/views/your-dashboard-name](https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown))
+[View the Financial Performance Overview Dashboard](https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown)
 
 
     
