@@ -11,7 +11,23 @@ Key insights include the identification of months with peak expenditures, the co
 
 <h3>🔗 Explore the Tableau Dashboard</h3>
 <p>Check out the interactive version of this project on <strong>Tableau Public</strong>:  
-<a href="https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="[https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)">Click here to explore the dashboard!</a></p>
+<a href="https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="
+    
+    [https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=e-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+    
+    
+    (https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)">Click here to explore the dashboard!</a></p>
+
+
+
+![Dashboard Preview](images/dashboard_preview.png)
+
+Explore the interactive Tableau dashboard by clicking the link below:
+
+[View the Financial Performance Overview Dashboard]([https://public.tableau.com/views/your-dashboard-name](https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown))
+
+
+    
 
 <h3>🔍 Project Overview</h3>
 <p>This project focuses on tracking and visualizing year-over-year financial metrics to help businesses understand their performance trends and operational efficiency. The dashboard provides:</p>
