@@ -133,6 +133,3 @@ Key insights include the identification of months with peak expenditures, the co
 
 <h3>🤝 Contributions</h3>
 <p>Feel free to contribute to this project by forking the repo, suggesting new metrics, or improving the visualizations. We welcome your feedback and ideas!</p>
-
-<h3>📝 License</h3>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank">LICENSE</a> file for details.</p>
