@@ -45,7 +45,7 @@
 
 <h3>🔗 Explore the Tableau Dashboard</h3>
 <p>Check out the interactive version of this project on <strong>Tableau Public</strong>:  
-<a href="#" target="_blank">Click here to explore the dashboard!</a></p>
+<a href="https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Click here to explore the dashboard!</a></p>
 
 <h3>🤝 Contributions</h3>
 <p>Feel free to contribute to this project by forking the repo, suggesting new metrics, or improving the visualizations. We welcome your feedback and ideas!</p>
