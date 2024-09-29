@@ -3,6 +3,14 @@
 
 <p>Welcome to <strong>Financial Performance Overview: Yearly Breakdown</strong>, an interactive Tableau dashboard project designed to deliver key insights into financial performance metrics over time. This project provides visualizations of essential financial KPIs, including Revenue, Gross Profit, EBITDA, Operating Income, Income Before Tax, and Net Income.</p>
 
+<!-- Image of the Dashboard -->
+<h3>📸 Dashboard Preview</h3>
+<img src="https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" alt="Dashboard Preview" width="600" />
+
+<h3>🔗 Explore the Tableau Dashboard</h3>
+<p>Check out the interactive version of this project on <strong>Tableau Public</strong>:  
+<a href="#" target="_blank">Click here to explore the dashboard!</a></p>
+
 <h3>🔍 Project Overview</h3>
 <p>This project focuses on tracking and visualizing year-over-year financial metrics to help businesses understand their performance trends and operational efficiency. The dashboard provides:</p>
 <p>This dynamic dashboard allows users to select a specific year (e.g., 2013, 2014, 2015, ..., 2020) through interactive buttons. When a user clicks a year, all graphs and details reflect the chosen year's data, providing a comprehensive overview of financial metrics.</p>
