@@ -6,11 +6,10 @@
 <h3>🔍 Project Overview</h3>
 <p>This project focuses on tracking and visualizing year-over-year financial metrics to help businesses understand their performance trends and operational efficiency. The dashboard provides:</p>
 <ul>
-    <li><strong>Profit Margin</strong>: Assess the profitability of the company across different years.</li>
-    <li><strong>Gross Profit</strong>: Visualize the total profit made after deducting the cost of goods sold.</li>
-    <li><strong>EBITDA</strong> (Earnings Before Interest, Taxes, Depreciation, and Amortization): Understand cash flow and profitability without the impact of financial decisions and tax strategies.</li>
-    <li><strong>Operating Income</strong>: Evaluate the profitability after accounting for operating expenses.</li>
-    <li><strong>Net Income</strong>: Monitor the company’s earnings after all expenses, taxes, and costs.</li>
+    <li><strong>Dynamic Year Selection</strong>: Users can select specific years (e.g., 2013, 2014, 2015, ..., 2020) via buttons to reflect detailed financial metrics for the selected year.</li>
+    <li><strong>Cash Flow Visualization</strong>: Incorporates forecasting for future cash flows, helping to project financial performance over time.</li>
+    <li><strong>Cash Flow Breakdown</strong>: Analyze cash flows by metric, including Operating, Financing, and Investing activities, along with revenue breakdown over the years.</li>
+    <li><strong>Expense Breakdown</strong>: View operating expenses categorized for better analysis and understanding of cost drivers.</li>
 </ul>
 
 <h3>📈 Key Features</h3>
@@ -45,7 +44,7 @@
 
 <h3>🔗 Explore the Tableau Dashboard</h3>
 <p>Check out the interactive version of this project on <strong>Tableau Public</strong>:  
-<a href="https://public.tableau.com/views/FinancialPerformanceOverviewYearlyBreakdown/FinancialPerformanceOverviewYearlyBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Click here to explore the dashboard!</a></p>
+<a href="#" target="_blank">Click here to explore the dashboard!</a></p>
 
 <h3>🤝 Contributions</h3>
 <p>Feel free to contribute to this project by forking the repo, suggesting new metrics, or improving the visualizations. We welcome your feedback and ideas!</p>
